@@ -1,0 +1,6 @@
+Imagine um sistema academico onde a impressão do nome do estudante está na lingua portuguesa e você tem que alterar
+esta forma de impressão.
+*Uma forma de extensibilidade de código. 
+
+1- Você muda a classe padrão: Complicado demais, as vezes é melhor fazer do zero 
+2- Usa o Adpter pra isso porra
