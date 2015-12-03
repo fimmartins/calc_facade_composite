@@ -1,4 +1,0 @@
-Fachada sempre será um para muitos.. tipo a fachada tem várias classes para simplificar o problema.. 
-Adpter só tem uma classe para resolver o problema.
-. Abstrai a implementação de comportamentos para bem com padroniza o acesso a 
-contratos. 

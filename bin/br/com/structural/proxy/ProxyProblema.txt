@@ -1,5 +1,0 @@
-Existe uma classe de serviço que possui um conjunto de funcionaldiades.
-Necessidade: Incluir um novo comportamento para ser entedido.
-Código complexo.
-Padrão usado para extensibilidade
-
